@@ -1,1 +1,1 @@
-# text_booster
+``Use `code` in your Markdown file.``
